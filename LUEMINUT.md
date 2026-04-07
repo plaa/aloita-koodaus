@@ -2,7 +2,7 @@
 
 ## Mikä tämä on
 
-Tässä kansiossa on pieniä Python-ohjelmia.
+Tässä kansiossa on pieniä Python-ohjelmia. Valitse ohjelma vasemmalta valikosta.
 
 Voit ajaa niitä, muuttaa niitä ja kokeilla omia ideoita.
 
@@ -13,17 +13,17 @@ Ohjelmat voi aina palauttaa takaisin ennalleen. Ei tarvitse pelätä että ne me
 
 ## Miten ajan ohjelman
 
-### Tapa 1: suoraan VS Codessa
+### Tapa 1: suoraan Visual Studio Codessa
 
-Avaa Python-ohjelma VS Codessa.
+Avaa Python-ohjelma Visual Studio Codessa valitsemalla se vasemmalla olevasta valikosta.
 
 Paina oikeassa yläkulmassa olevaa Play-nappia ▷
 
-### Tapa 2: VS Coden terminaalissa
+### Tapa 2: Visual Studio Coden terminaalissa
 
 Avaa terminaali valikosta **Terminal -> New Terminal**.
 
-Jos olet projektin juuressa, voit ajaa ohjelman näin:
+Aja ohjelman kirjoittamalla:
 
 ```
 python3 00_aloita_tasta/hei.py
